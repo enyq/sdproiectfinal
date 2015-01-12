@@ -1,0 +1,6 @@
+#org.skyway.core settings
+#Sun Jan 11 23:22:56 EET 2015
+version=11.0.2.qualifier
+default.top.level.package=edu.utcluj.proiect
+models.folder.name=.springDSL
+initialized=true
